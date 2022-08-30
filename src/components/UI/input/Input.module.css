@@ -1,0 +1,13 @@
+.Input {
+    border-radius: 25px;
+    padding: 12px;
+    border: 2px solid #F1F3F4;
+    outline: none;
+    background: transparent;
+    color: #fff;
+}
+::placeholder {
+    color: #F1F3F4;
+    font-weight: 400;
+    opacity: 0.5;
+}

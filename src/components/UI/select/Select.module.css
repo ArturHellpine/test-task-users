@@ -1,0 +1,20 @@
+.Select {
+    background: none;
+    border: 1px solid #F1F3F4;
+    border-radius: 5px;
+    padding: 10px 5px;
+    color: #F1F3F4;
+    cursor: pointer;
+}
+
+.Option {
+    background: #333348;
+    color: #F1F3F4;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.Disabled {
+    background: #F1F3F4;
+    color: black;
+}

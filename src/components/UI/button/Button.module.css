@@ -1,0 +1,13 @@
+.Btn {
+    padding: 5px 15px;
+    border-radius: 15px;
+    background: #52519D;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background 0.1s linear;
+}
+
+.Btn:hover {
+    background: #7272c5;
+}
